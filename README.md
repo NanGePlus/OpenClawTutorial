@@ -33,9 +33,7 @@ GitHub地址：[https://github.com/NanGePlus/N8NWorkflowsTest](https://github.co
 Gitee地址：[https://gitee.com/NanGePlus/N8NWorkflowsTest](https://gitee.com/NanGePlus/N8NWorkflowsTest)                
 - **Cursor系列**：专为提升开发生产力而设计的一款AI提效工具
 B站视频链接：[https://www.bilibili.com/video/BV1HEABzvEdo/](https://www.bilibili.com/video/BV1HEABzvEdo/)
-YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufkcPJWHVKFTFzS8yNCkfM5b](https://www.youtube.com/playlist?list=PL8zBXedQ0ufkcPJWHVKFTFzS8yNCkfM5b)
-GitHub地址：[https://github.com/NanGePlus/CursorAICoding](https://github.com/NanGePlus/CursorAICoding)  
-Gitee地址：[https://gitee.com/NanGePlus/CursorAICoding](https://gitee.com/NanGePlus/CursorAICoding)   
+YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufkcPJWHVKFTFzS8yNCkfM5b](https://www.youtube.com/playlist?list=PL8zBXedQ0ufkcPJWHVKFTFzS8yNCkfM5b)  
 - **更多开源项目**
 GitHub地址：[https://github.com/NanGePlus](https://github.com/NanGePlus)
 Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
