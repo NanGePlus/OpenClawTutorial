@@ -49,6 +49,4 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 
 ---
 
-## 操作系统怎么选
-
 待更新
