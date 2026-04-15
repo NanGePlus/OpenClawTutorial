@@ -40,6 +40,15 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 
 ---
 
+## 本系列视频链接地址速查
+
+**【整体介绍】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。跟着南哥一起养龙虾，一起调教你的专属常驻型数字员工。**
+
+- YouTube频道对应视频: [https://youtu.be/T5bvvEnvXgI](https://youtu.be/T5bvvEnvXgI)     
+- B站频道对应视频: [https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)
+
+---
+
 ## 适合的小伙伴
 
 - 希望用 **飞书（含 Lark，其他也类似）** 作为入口，驱动 **带工具与记忆的智能体** 的开发者、运营与重度个人用户。  
