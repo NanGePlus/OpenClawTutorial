@@ -48,8 +48,9 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)        
 
 **（1）【EP01_OpenClaw介绍】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。跟着南哥一起养龙虾，一起调教你的专属常驻型数字员工。**      
+资料在 01_*** 文件夹，下载即可        
 - YouTube频道对应视频: [https://youtu.be/zfoB5dbj0Ag](https://youtu.be/zfoB5dbj0Ag)      
-- B站频道对应视频: [https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)       
+- B站频道对应视频: [https://www.bilibili.com/video/BV1QvQnB6EBR/](https://www.bilibili.com/video/BV1QvQnB6EBR/)       
 
 ---
 
