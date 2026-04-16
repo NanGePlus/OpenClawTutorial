@@ -52,7 +52,7 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV1QvQnB6EBR/](https://www.bilibili.com/video/BV1QvQnB6EBR/)
 - 资料在 01_*** 文件夹，下载即可          
 
-**【EP02_准备工作】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。实操Windows安装WSL2及Ubuntu，大模型服务选型。**          
+**（2）【EP02_准备工作】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。实操Windows安装WSL2及Ubuntu，大模型服务选型。**          
 - YouTube频道对应视频: [https://youtu.be/c2DTfUjd-lI](https://youtu.be/c2DTfUjd-lI)       
 - B站频道对应视频: [https://www.bilibili.com/video/BV17td4B5EXx/](https://www.bilibili.com/video/BV17td4B5EXx/)         
 - 资料在 02_*** 文件夹，下载即可             
