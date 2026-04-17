@@ -101,7 +101,7 @@ wsl --set-version Ubuntu 2
 
 ---
 
-## 常见错误处理1：`Wsl/WININET_E_NAME_NOT_RESOLVED`
+## 常见错误处理：`Wsl/WININET_E_NAME_NOT_RESOLVED`
 
 在安装或列出发行版时若出现类似错误：
 
