@@ -139,50 +139,6 @@ wsl --install
 
 ---
 
-## 常见错误处理2：关机重启后 `openclaw gateway start` 报 systemd 用户服务错误
-
-### 现象
-
-在 **Windows 关机后再打开**，重新进入 Ubuntu（WSL）后执行 `openclaw gateway start` 时出现类似报错：
-
-```text
-Gateway start failed: Error: systemctl not available; systemd user services are required on Linux.
-```
-
-### 处理方案（在 Ubuntu 终端内按顺序执行）
-
-默认首个 Linux 用户 UID 常为 `**1000**`。若你的 UID 不是 `1000`，请先将下面命令里所有的 `**1000**` 换成 `id -u` 的输出再执行。
-
-```bash
-export XDG_RUNTIME_DIR=/run/user/1000
-export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
-
-mkdir -p ~/.config/systemd/user
-
-cat > ~/.config/systemd/user/openclaw-gateway.service <<'EOF'
-[Unit]
-Description=OpenClaw Gateway (bootstrap placeholder)
-
-[Service]
-Type=oneshot
-ExecStart=/bin/true
-RemainAfterExit=yes
-
-[Install]
-WantedBy=default.target
-EOF
-
-systemctl --user daemon-reload
-systemctl --user enable --now openclaw-gateway.service
-systemctl --user is-enabled openclaw-gateway.service
-
-openclaw gateway install
-```
-
-完成后可再执行 `openclaw gateway start` 验证。
-
----
-
 ## 小结
 
 1. **管理员 PowerShell** 执行 `wsl --install`，按提示完成用户创建。
