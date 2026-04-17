@@ -57,6 +57,11 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV17td4B5EXx/](https://www.bilibili.com/video/BV17td4B5EXx/)         
 - 资料在 02_*** 文件夹，下载即可             
 
+**【EP03_安装部署】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。OpenClaw安装、验证、升级与卸载并测试基本功能正常运营。**    
+- YouTube频道对应视频:             
+- B站频道对应视频: [https://www.bilibili.com/video/BV1mNdVBQEVJ/](https://www.bilibili.com/video/BV1mNdVBQEVJ/)          
+- 资料在 03_*** 文件夹，下载即可    
+
 ---
 
 ## 适合的小伙伴
