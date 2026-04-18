@@ -67,6 +67,11 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV1GxdEByEHi/](https://www.bilibili.com/video/BV1GxdEByEHi/)           
 - 资料在 04_*** 文件夹，下载即可
 
+**（5）【EP05_让OpenClaw更懂你】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。理解工作区文件（SOUL.md等）管理智能体人设。**    
+- YouTube频道对应视频: [https://youtu.be/PF00hwkInao](https://youtu.be/PF00hwkInao)         
+- B站频道对应视频: [https://www.bilibili.com/video/BV18FdsBREHy/](https://www.bilibili.com/video/BV18FdsBREHy/)           
+- 资料在 05_*** 文件夹，下载即可
+
 ---
 
 ## 适合的小伙伴
