@@ -62,6 +62,11 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV1mNdVBQEVJ/](https://www.bilibili.com/video/BV1mNdVBQEVJ/)           
 - 资料在 03_*** 文件夹，下载即可     
 
+**（4）【EP04_飞书互通】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。接入主流的团队协作与IM平台飞书 OpenClaw 官方插件。**    
+- YouTube频道对应视频: [https://youtu.be/zPzemO2ALsA](https://youtu.be/zPzemO2ALsA)         
+- B站频道对应视频: [https://www.bilibili.com/video/BV1GxdEByEHi/](https://www.bilibili.com/video/BV1GxdEByEHi/)           
+- 资料在 04_*** 文件夹，下载即可
+
 ---
 
 ## 适合的小伙伴
