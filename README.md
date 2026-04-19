@@ -72,6 +72,11 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV18FdsBREHy/](https://www.bilibili.com/video/BV18FdsBREHy/)           
 - 资料在 05_*** 文件夹，下载即可
 
+**（6）【EP06_资讯简报助手】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。为你省下第一波时间场景应用：即时/定时检索并推送简报。**    
+- YouTube频道对应视频: [https://youtu.be/tOIz0Ou47Ds](https://youtu.be/tOIz0Ou47Ds)         
+- B站频道对应视频: [https://www.bilibili.com/video/BV1eSddBQEcm/](https://www.bilibili.com/video/BV1eSddBQEcm/)           
+- 资料在 06_*** 文件夹，下载即可
+
 ---
 
 ## 适合的小伙伴
