@@ -82,6 +82,11 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV1SjddB5EQH/](https://www.bilibili.com/video/BV1SjddB5EQH/)           
 - 资料在 07_*** 文件夹，下载即可
 
+**（8）【EP08_日历/日程Skill】零基础上手 OpenClaw 实战：从零打造智能体驱动的商业自动化闭环。对话中动态安装使用Skill的能力，稳定沉淀进工作流。**    
+- YouTube频道对应视频: [https://youtu.be/BCpZ4Q-nQ5M](https://youtu.be/BCpZ4Q-nQ5M)         
+- B站频道对应视频: [https://www.bilibili.com/video/BV1SjddB5EQH/](https://www.bilibili.com/video/BV1SjddB5EQH/)           
+- 资料在 08_*** 文件夹，下载即可
+
 ---
 
 ## 适合的小伙伴
